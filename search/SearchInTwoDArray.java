@@ -1,3 +1,4 @@
+package search;
 import java.util.Arrays;
 
 public class SearchInTwoDArray {
